@@ -1,7 +1,7 @@
 # Hi, I'm Mehraj Hasan ⚡
 
 ## 💫 About Me
-🔭 I’m a software engineer looking to make positive impact through my work<br>🌱 Studying Computer Science (BS) at CUNY-Hunter College<br>🤝 Currently having fun building personal projects to hone my skills<br>✉️ You can reach me at mehrajhasancs@gmail.com
+🔭 I’m a software engineer looking to make positive impact through my work<br>🌱 Studying Computer Science (BA) at CUNY-Hunter College<br>🤝 Currently having fun building personal projects to hone my skills<br>✉️ You can reach me at mehrajhasancs@gmail.com
 
 
 ## 🌐 Socials:
